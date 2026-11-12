@@ -2,10 +2,18 @@
  "v": 1,
  "editions": [
   {
+   "id": "2026-11-12",
+   "kind": "daily",
+   "date": "2026-11-12",
+   "title": "America sinks, on purpose",
+   "rev": "f2ec9a926b"
+  },
+  {
    "id": "2026-11-11",
    "kind": "daily",
    "date": "2026-11-11",
-   "title": "Total victory, texted ex"
+   "title": "Total victory, texted ex",
+   "rev": "f68ab42fd5"
   }
  ]
 }
