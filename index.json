@@ -2,6 +2,13 @@
  "v": 1,
  "editions": [
   {
+   "id": "2026-11-14",
+   "kind": "daily",
+   "date": "2026-11-14",
+   "title": "Grounded. Except the rocket.",
+   "rev": "51c845e625"
+  },
+  {
    "id": "2026-11-13",
    "kind": "daily",
    "date": "2026-11-13",
