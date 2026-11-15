@@ -2,6 +2,20 @@
  "v": 1,
  "editions": [
   {
+   "id": "2026-W46",
+   "kind": "weekly",
+   "date": "2026-11-15",
+   "title": "The week the upgrades won",
+   "rev": "ba4548ebf1"
+  },
+  {
+   "id": "2026-11-15",
+   "kind": "daily",
+   "date": "2026-11-15",
+   "title": "Caught in midair. Caught up at last.",
+   "rev": "985c9cd7a0"
+  },
+  {
    "id": "2026-11-14",
    "kind": "daily",
    "date": "2026-11-14",
