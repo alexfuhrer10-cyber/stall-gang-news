@@ -2,6 +2,13 @@
  "v": 1,
  "editions": [
   {
+   "id": "2026-11-17",
+   "kind": "daily",
+   "date": "2026-11-17",
+   "title": "Seventh Bond. One light-day late.",
+   "rev": "05afa5e684"
+  },
+  {
    "id": "2026-11-16",
    "kind": "daily",
    "date": "2026-11-16",
