@@ -6,6 +6,13 @@
  },
  "editions": [
   {
+   "id": "2026-11-19",
+   "kind": "daily",
+   "date": "2026-11-19",
+   "title": "A share, a tux and a code in a box",
+   "rev": "acb5f58117"
+  },
+  {
    "id": "2026-11-18",
    "kind": "daily",
    "date": "2026-11-18",
