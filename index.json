@@ -1,26 +1,30 @@
 {
  "v": 1,
+ "vote": {
+  "url": "https://lrpkxlxaiixwmciihray.supabase.co",
+  "key": "sb_publishable_8JprO-yDIlZEqwt8pMF_SA_GJNxRAMM"
+ },
  "editions": [
   {
    "id": "2026-11-18",
    "kind": "daily",
    "date": "2026-11-18",
    "title": "A 99, a duck and a chicken poll",
-   "rev": "e6bdec09e8"
+   "rev": "5891101ca4"
   },
   {
    "id": "2026-11-17",
    "kind": "daily",
    "date": "2026-11-17",
    "title": "Seventh Bond. One light-day late.",
-   "rev": "05afa5e684"
+   "rev": "d6b31fb381"
   },
   {
    "id": "2026-11-16",
    "kind": "daily",
    "date": "2026-11-16",
    "title": "Eleven nods. Two left at the top.",
-   "rev": "27d028d6f0"
+   "rev": "ee4e6e4e77"
   },
   {
    "id": "2026-W46",
@@ -34,35 +38,35 @@
    "kind": "daily",
    "date": "2026-11-15",
    "title": "Caught in midair. Caught up at last.",
-   "rev": "985c9cd7a0"
+   "rev": "101843796b"
   },
   {
    "id": "2026-11-14",
    "kind": "daily",
    "date": "2026-11-14",
    "title": "Grounded. Except the rocket.",
-   "rev": "51c845e625"
+   "rev": "da3a937011"
   },
   {
    "id": "2026-11-13",
    "kind": "daily",
    "date": "2026-11-13",
    "title": "The fix is not taking. Doom adjourned.",
-   "rev": "556595a9f7"
+   "rev": "f3ae48bf9d"
   },
   {
    "id": "2026-11-12",
    "kind": "daily",
    "date": "2026-11-12",
    "title": "The chips are down",
-   "rev": "f9e1fe7dc9"
+   "rev": "8b3377ab8a"
   },
   {
    "id": "2026-11-11",
    "kind": "daily",
    "date": "2026-11-11",
    "title": "Total victory, texted ex",
-   "rev": "192f3edebb"
+   "rev": "aa7b6bdb02"
   }
  ]
 }
