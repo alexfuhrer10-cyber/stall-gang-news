@@ -6,6 +6,13 @@
  },
  "editions": [
   {
+   "id": "2026-11-20",
+   "kind": "daily",
+   "date": "2026-11-20",
+   "title": "A waffle, a deal and a fish finger",
+   "rev": "553685059b"
+  },
+  {
    "id": "2026-11-19",
    "kind": "daily",
    "date": "2026-11-19",
