@@ -6,6 +6,20 @@
  },
  "editions": [
   {
+   "id": "2026-W47",
+   "kind": "weekly",
+   "date": "2026-11-22",
+   "title": "The week of the recount",
+   "rev": "6f180c05f5"
+  },
+  {
+   "id": "2026-11-22",
+   "kind": "daily",
+   "date": "2026-11-22",
+   "title": "A blank draft and a positive spin",
+   "rev": "257dc71664"
+  },
+  {
    "id": "2026-11-20",
    "kind": "daily",
    "date": "2026-11-20",
