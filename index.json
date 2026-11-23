@@ -6,6 +6,13 @@
  },
  "editions": [
   {
+   "id": "2026-11-23",
+   "kind": "daily",
+   "date": "2026-11-23",
+   "title": "A cheque to itself and a yard short",
+   "rev": "d4aaed1d90"
+  },
+  {
    "id": "2026-W47",
    "kind": "weekly",
    "date": "2026-11-22",
@@ -87,7 +94,7 @@
    "kind": "daily",
    "date": "2026-11-12",
    "title": "The chips are down",
-   "rev": "8b3377ab8a"
+   "rev": "f2263aa4b8"
   },
   {
    "id": "2026-11-11",
