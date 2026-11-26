@@ -6,6 +6,13 @@
  },
  "editions": [
   {
+   "id": "2026-11-26",
+   "kind": "daily",
+   "date": "2026-11-26",
+   "title": "A million lights and a parade on hold",
+   "rev": "ef1a85e533"
+  },
+  {
    "id": "2026-11-25",
    "kind": "daily",
    "date": "2026-11-25",
