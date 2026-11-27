@@ -6,6 +6,13 @@
  },
  "editions": [
   {
+   "id": "2026-11-27",
+   "kind": "daily",
+   "date": "2026-11-27",
+   "title": "A 59-yarder and a cat in the chemist",
+   "rev": "57aa1a9b3d"
+  },
+  {
    "id": "2026-11-26",
    "kind": "daily",
    "date": "2026-11-26",
